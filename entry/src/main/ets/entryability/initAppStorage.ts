@@ -1,0 +1,1 @@
+AppStorage.SetOrCreate('token', '111111');

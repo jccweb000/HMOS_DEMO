@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AppStoragePage",
+    "pages/ProviderPage",
+    "pages/BuilderPage",
+    "pages/ObservedPage",
+    "pages/Music",
+    "pages/MusicDetail",
+    "pages/TabsPage",
+    "pages/HttpDeniPage",
+    "pages/WebViewPage"
+  ]
+}
